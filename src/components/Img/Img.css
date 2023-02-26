@@ -1,0 +1,20 @@
+.img__borda {
+    align-items: center;
+    background-color: #f67272;
+    border-radius: 50%;
+    display: flex;
+    height: 260px;
+    justify-content: center;
+    margin: 30px 0;   
+    transition: all .1s ease-in-out;
+    width: 260px;
+}
+
+.img__imagem {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    height: 240px;
+    width: 240px;
+}

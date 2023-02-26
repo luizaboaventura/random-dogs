@@ -1,0 +1,17 @@
+button {
+    background-color: #262A53;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    padding: 10px;
+    text-transform: uppercase;
+    transition: all .1s ease-in-out;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #f67272; 
+    cursor: pointer;
+}
