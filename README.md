@@ -5,7 +5,8 @@
 </p>
 
 ## :memo: Descrição do Projeto
-Projeto pessoal de página com botão para escolha randômica de imagens de API.
+Projeto pessoal de estudo de front-end. </br>
+Página com botão para escolha randômica de imagens de API.
 
 ## 🚀 Tecnologias 
 - React
